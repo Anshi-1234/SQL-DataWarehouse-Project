@@ -77,6 +77,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+│   ├── crm/
+│   ├── erp/
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
